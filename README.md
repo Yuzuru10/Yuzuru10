@@ -32,7 +32,7 @@
 <h2 align="center">~ 🎉 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🎉 ~ </h2>
     <br>
     <div align="center">
-    <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+    <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="left">
     </div>  
     <br>
 <p align="center">
