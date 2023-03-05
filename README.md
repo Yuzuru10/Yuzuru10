@@ -34,8 +34,6 @@
     <div align="center">
     <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
     </div>  
-</div>   
-<div>
     <br>
 <p align="center">
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <br>
