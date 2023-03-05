@@ -46,6 +46,7 @@ I am not good at anything but at the same time I am good at everything.
 
 <div>
 <h2 align="center"> 🍁 ~  𝑀𝓎 𝓁𝒾𝓃𝓀𝓈 ~ 🍁 </h2>
+    <br>
     <div align="center">
     <img src="https://media.tenor.com/5QR79Xb9guMAAAAM/cute-food.gif" align="right">
     </div>
