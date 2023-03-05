@@ -43,9 +43,9 @@ I am not good at anything but at the same time I am good at everything.
 </p>
 <br>
 </div>
+
 <div>
-<h2 align="center"> 🍁 ~  𝑀𝓎 𝓁𝒾𝓃𝓀𝓈 ~ 🍁 </h2>
-<br>
+ <h2 align="center"> 🍁 ~  𝑀𝓎 𝓁𝒾𝓃𝓀𝓈 ~ 🍁 </h2><br>
     <div align="center">
     <img src="https://media.tenor.com/RhSZiLz2BIYAAAAi/pyte.gif" align="right">
     </div>
