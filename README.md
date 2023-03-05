@@ -25,7 +25,7 @@
     <b>Git Server:</b> I'll put it If I could make it >-< </li>
 </div>
 <br><br><br>
-<div><p align="center"><a href=""><img src="https://lanyard.kyrie25.me/api/710631006067097650?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"></a></p>
+<div>
 <h2 align="center">~ 🎉 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🎉 ~</h2>
     <br>
     <div align="center">
@@ -48,7 +48,7 @@ I am not good at anything but <br>at the same time I am good at everything.
     </div>
 <p align="center"> Hewe awe some of my
 links >~<</p>
-<p align="center"><a href="https://steamcommunity.com/id/Yuzuru_10"><img src="https://lanyard.kyrie25.me/api/710631006067097650?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&idleMessage=Sweepwing >-<"></a></p>
+<p align="center"><a href="https://steamcommunity.com/id/Yuzuru_10"><img src="https://lanyard.kyrie25.me/api/710631006067097650?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"></a></p>
 </div>
 <br>
 <div align="center">
