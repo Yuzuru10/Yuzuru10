@@ -48,7 +48,7 @@ I am not good at anything but at the same time I am good at everything.
 <h2 align="center">~ 🎉 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🎉 ~ </h2>
     <br>
     <div align="center">
-    <img src="https://media.tenor.com/2pgzGUBVuGwAAAAC/bom-dia.gif" align="left">
+    <img src="https://media.tenor.com/2pgzGUBVuGwAAAAC/bom-dia.gif" align="right">
     </div>  
     <br>
 <p align="center">
