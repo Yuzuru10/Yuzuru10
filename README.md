@@ -22,7 +22,7 @@
 <li>
 <b>Hobbys:</b> trying to learn everything interests in it</li>    
 <li>    
-    <b>Git Server:</b> I'll put it If I could make it >-< </li>
+    <b>Git Server</b> https://yuzuru10.github.io </li>
 </div>
 <br><br><br>
 <div>
