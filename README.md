@@ -43,6 +43,7 @@ I am not good at anything but at the same time I am good at everything.
 </p>
 <br>
 </div>
+<div>
 <h2 align="center"> 🍁 ~  𝑀𝓎 𝓁𝒾𝓃𝓀𝓈 ~ 🍁 </h2>
 <br>
 
@@ -53,4 +54,5 @@ I am not good at anything but at the same time I am good at everything.
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="https://steamcommunity.com/id/Yuzuru_10" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2592%2FPNG%2F512%2Fsteam_logo_icon_154490.png&f=1&nofb=1&ipt=637fa2e2a5d034e3eabc25df325857c1380d412edc3819546d6873b6d2f2f7cc&ipo=images" width="50px" height="50px"/></a>
+</div>
 </body>   
