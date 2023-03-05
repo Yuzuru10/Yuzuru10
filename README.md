@@ -16,7 +16,6 @@
     <div align="center">
 <img src="https://media.tenor.com/mnmu16CGt6QAAAAi/dont-care-idc.gif" align="right">
     </div>
-
 <li>
     <b>Name:</b> Yuzuru </li>
 <li>
@@ -25,15 +24,16 @@
 <b>Hobbys:</b> trying to learn everything interests in it</li>    
 <li>    
     <b>Git Server:</b> I'll put it If I could make it >-<> </li>
- 
 <br><br><br>
-
+</d>
 <div>
 <h2 align="center">~ 🎉 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🎉 ~ </h2>
     <br>
     <div align="center">
     <img src="https://media.tenor.com/2pgzGUBVuGwAAAAC/bom-dia.gif" align="left">
-    </div>  
+    </div>
+</div> 
+<div> 
     <br>
 <p align="center">
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <br>
@@ -41,27 +41,21 @@ I am not good at anything but at the same time I am good at everything.
 </p>
 <br>
 </div> 
-
 <br><br><br>
-
-<div>
-<h2 align="center">❄️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ ❄️</h2>
-    <div align="center">
-<img src="https://media.tenor.com/mnmu16CGt6QAAAAi/dont-care-idc.gif" align="right">
-    </div>
-
-<br><br><br>
-
 <div>
 <h2 align="center"> 🍁 ~  𝑀𝓎 𝓁𝒾𝓃𝓀𝓈 ~ 🍁 </h2>
     <br>
     <div align="center">
     <img src="https://media.tenor.com/5QR79Xb9guMAAAAM/cute-food.gif" align="right">
     </div>
-    <br>
+<br>
 <p align="center"> Hewe awe some of my
 links >~<</p>
 <p align="center"><a href="https://steamcommunity.com/id/Yuzuru_10"><img src="https://lanyard.kyrie25.me/api/710631006067097650?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&idleMessage=Sweepwing >-<"/></a></p>
-<br>
 </div>
+<br>
+<hr>
+</div>
+</div>
+    </center>
 </body>   
