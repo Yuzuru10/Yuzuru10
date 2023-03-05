@@ -45,6 +45,22 @@ I am not good at anything but at the same time I am good at everything.
 <br><br><br>
 
 <div>
+<h2 align="center">~ 🎉 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🎉 ~ </h2>
+    <br>
+    <div align="center">
+    <img src="https://media.tenor.com/2pgzGUBVuGwAAAAC/bom-dia.gif" align="left">
+    </div>  
+    <br>
+<p align="center">
+<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <br>
+I am not good at anything but at the same time I am good at everything.
+</p>
+<br>
+</div>
+
+<br><br><br>
+
+<div>
 <h2 align="center"> 🍁 ~  𝑀𝓎 𝓁𝒾𝓃𝓀𝓈 ~ 🍁 </h2>
     <br>
     <div align="center">
