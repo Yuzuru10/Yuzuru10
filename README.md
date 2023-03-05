@@ -22,9 +22,9 @@
 <li>
     <b>Persona:</b> Artic Fox </li>
 <li>
-<b>Hobbys:</b>trying to learn everything interests in it</li>    
+<b>Hobbys:</b> trying to learn everything interests in it</li>    
 <li>    
-    <b>Git Server:</b> I'll put it If I could make it </li>
+    <b>Git Server:</b> I'll put it If I could make it >-<> </li>
  
 <br><br><br>
 
@@ -49,8 +49,9 @@ I am not good at anything but at the same time I am good at everything.
     <div align="center">
     <img src="https://media.tenor.com/RhSZiLz2BIYAAAAi/pyte.gif" align="right">
     </div>
-    <p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-    <p align="center"><a href="https://steamcommunity.com/id/Yuzuru_10" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2592%2FPNG%2F512%2Fsteam_logo_icon_154490.png&f=1&nofb=1&ipt=637fa2e2a5d034e3eabc25df325857c1380d412edc3819546d6873b6d2f2f7cc&ipo=images" width="50px" height="50px"/></a>
+    <p align="center"> Hewe awe some of my
+links >~< </p>
+    <p align="center"><a href="https://steamcommunity.com/id/Yuzuru_10"><img src="https://lanyard.kyrie25.me/api/710631006067097650?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&idleMessage=Sweepwing >-<"/></a> 
+    </p> 
 </div>
 </body>   
