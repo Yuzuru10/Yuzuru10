@@ -43,7 +43,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yuzuru10&show_icons=true&theme=radical&count_private=true&hide_border=true" align="left" style="width: 50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yuzuru10&show_icons=true&theme=radical&count_private=true&hide_border=true" align="left" style="width: 49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzuru10&theme=radical&hide_border=true&layout=compact" align="right" style="width: 50%" />
 
